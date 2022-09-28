@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Jerry &amp Moore</title>
+		<style>
+		p {
+			color: blue
+			position: left
+		}
+		</style>
+	</head>
+	<body>
+	<h1>"Jerry &amp Moore"</h1>
+	<h3>"Attorney's at Law"</h3>
+	</body>
+	
+	
+</html>
